@@ -1,17 +1,7 @@
-# android-basics-in-kotlin
+# Android Basics in Kotlin
 Contains the projects from Android Basics in Kotlin course.
 
-1. HappyBirthday: create the first app in Android, having textView, ImageView
-2. DiceRoller: adding conditions (if/else, when)
-3. TipTime: modify the layout, get input from users
-
-
-
-
-
----
-
-From Android basics in Kotlin
+The preview of the apps will be displayed in the folder `imgs`
 
 Unit 1:
 
@@ -28,17 +18,14 @@ Unit 3:
 - Word: set up implicit and explicit intent, navigation components. A word list grouped by their first letter that can be searched online (like a mini dictionary).
 - Dessert Clicker: learn stages of activity lifecycle, write log debug messages. 
 - Unscramble: a word game with scores and number of tries displayed. 
-
 - Cupcake: Navigate between screens choosing the flavour, number of cupcakes, and the pick up date for the order. Finally, send the order via an email to the bakery.
-- MAD skills?
 
 Unit 4:
 
 - Learn about threads, coroutines in Kotlin.
-- MarsPhotos: Load and display Mars images from NASA websites.
+- MarsPhotos: load and display Mars images from NASA websites.
 
 Unit 5:
 
-- SQL
-- Inventory: ....
-
+- SQL: implement simple statemnents. 
+- Inventory: display a list of items with their price and quantity, having users adding and changing the data; read, update and persist data with Room.
