@@ -1,8 +1,6 @@
 # Android Basics in Kotlin
 Contains the projects from Android Basics in Kotlin course.
 
-The preview of the apps will be displayed in the folder `imgs`
-
 Unit 1:
 
 - Happy Birthday: basic app with a TextView and an ImageView, get familiar with Android Studio.
